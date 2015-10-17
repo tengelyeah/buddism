@@ -1,0 +1,2 @@
+# buddism
+buddism article
