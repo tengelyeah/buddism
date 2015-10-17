@@ -1,2 +1,2 @@
 # buddism
-buddism article
+这是个人写的一些关于佛教的文章的会集。
