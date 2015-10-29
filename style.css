@@ -991,7 +991,6 @@
     font-size: 16px;
     line-height: 24px;
     color: #333;
-    text-indent: 2em;
 
 
     /* max-width: 95%; */
@@ -1002,7 +1001,13 @@
     /* background-image: url(http://orgmode.org/worg-unicorn.png); */
     /* background-position: 25px 5px; */
     /* background-repeat: no-repeat; */
-    }
+  }
+
+  p {
+      text-indent: 2em;
+  }
+
+  
     body #content {
       padding-top: 70px;
     }
