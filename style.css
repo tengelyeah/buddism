@@ -84,8 +84,16 @@
     border-bottom: 1px solid #222;
   }
 
-  .title h1 {
-      text-align: center
+  /* .title h1 { */
+  /*     text-align: center; */
+  /* } */
+
+  h1.title {
+      color: #202090;
+      text-align: center;
+      padding-bottom: 0.2em;
+      margin-bottom: 1em;
+      border-bottom: 5px solid #eee;
   }
 
   h2 {
