@@ -15,7 +15,7 @@
          :sitemap-title "Sitemap"         ; ... with title 'Sitemap'.
          :author "tengel"
          :email "tengel dot liu at gmail dot com"
-         :style    "<link rel=\"stylesheet\" type=\"text/css\" href=\"css/worg.css\"/>"
+         :style    "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>"
          )
         ("blog-static"
          :base-directory "~/notes/buddism/"
