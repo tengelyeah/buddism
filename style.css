@@ -1158,7 +1158,8 @@
     margin-left: 1.45em;
   }
 
-  a {text-decoration: none; color: #537d7b}
+  /* a {text-decoration: none; color: #537d7b} */
+  a {text-decoration: none; color: #007d7b}
   /* a:visited {text-decoration: none; color: #224444} */ /* Taken out because color too similar to text. */
   a:visited {text-decoration: none; color: #98855b}  /* this is now the color of the Unicorns horn */
   a:hover {text-decoration: underline; color: #a34d32}
