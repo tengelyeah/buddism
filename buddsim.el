@@ -13,10 +13,12 @@
          :auto-sitemap t                ; Generate sitemap.org automagically...
          :sitemap-filename "sitemap.org"  ; ... call it sitemap.org (it's the default)...
          :sitemap-title "Sitemap"         ; ... with title 'Sitemap'.
-         :author "tengel"
+         :author "刘海龙"
          :email "tengel dot liu at gmail dot com"
-         :style    "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>"
-         )
+	 :html-head "<link rel=\"stylesheet\"
+                       href=\"style.css\" type=\"text/css\"/>"
+	 :html-preamble t)
+
         ("blog-static"
          :base-directory "~/notes/buddism/"
          :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
