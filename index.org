@@ -1,5 +1,6 @@
 #+TITLE: 為佛法而學，不作世間學問想
 
+
    + [[file:chulinxin.org][出离心]]
    + [[file:fandong.org][风动还是帆动]]
    + [[file:fofazaishijian.org][佛法在世间]]
