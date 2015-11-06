@@ -5,3 +5,10 @@
    + [[file:fandong.org][风动还是帆动]]
    + [[file:fofazaishijian.org][佛法在世间]]
    + [[file:piposhena.org][毗缽舍那]]
+
+----
+
+* 技术文献
+
+   + [[file:lisp_origin.org][Lisp 之根源]]
+
