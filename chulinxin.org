@@ -1,4 +1,4 @@
-#+TITLE: 出离心
+o#+TITLE: 出离心
 #+AUTHOR: 刘海龙
 #+TAGS: 胜解作意  真实作意 奢摩他  毗婆舍那 散心
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
