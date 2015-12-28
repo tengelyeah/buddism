@@ -1,14 +1,20 @@
-#+TITLE: 為佛法而學，不作世間學問想
+#+TITLE: 一切行无常
+#+LANGUAGE: zh-CN
 
+
+* 佛法
+  為佛法而學，不作世間學問想
 
    + [[file:chulinxin.org][出离心]]
    + [[file:fandong.org][风动还是帆动]]
    + [[file:fofazaishijian.org][佛法在世间]]
    + [[file:piposhena.org][毗缽舍那]]
+   + [[file:shiermenlun.org][十二門論]]
 
-----
 
 * 技术文献
 
    + [[file:lisp_origin.org][Lisp 之根源]]
 
+* 链接
+   + [[http://ergoemacs.org][ergo emacs]]
