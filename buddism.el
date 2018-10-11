@@ -2,9 +2,9 @@
 (setq org-publish-project-alist
       '(
         ("blog-notes"
-         :base-directory "~/notes/buddism/"
+         :base-directory "~/notes.orig/buddism/"
          :base-extension "org"
-         :publishing-directory "~/notes/tengelyeah/"
+         :publishing-directory "~/notes.orig/tengelyeah/"
          :recursive t
          :publishing-function org-html-publish-to-html
          :headline-levels 4
@@ -20,7 +20,7 @@
 	 :html-preamble t)
 
         ("blog-static"
-         :base-directory "~/notes/buddism/"
+         :base-directory "~/notes.orig/buddism/"
          :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
          :publishing-directory "~/notes/tengelyeah/"
          :recursive t
