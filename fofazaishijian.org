@@ -4,8 +4,8 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+OPTIONS: toc:t ^:{} author:t num:2 H:6
 #+LANGUAGE: zh-CN
-#+HTML_LINK_HOME: index.org
-#+HTML_LINK_UP: index.org
+#+HTML_LINK_HOME: index.html
+#+HTML_LINK_UP: index.html
 
 
 六祖大師說：佛法在世間，不離世間覺。

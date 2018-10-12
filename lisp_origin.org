@@ -3,8 +3,8 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css" />
 #+HTML_HEAD: <style type="text/css">pre.src { background-color: #303030; color: #e5e5e5;}</style>
 #+LANGUAGE: zh-CN
-#+HTML_LINK_HOME: index.org
-#+HTML_LINK_UP: index.org
+#+HTML_LINK_HOME: index.html
+#+HTML_LINK_UP: index.html
 
 约翰麦卡锡于1960年发表了一篇非凡的论文,他在这篇论文中对编程的贡献有如欧几里德对几何的贡献[fn:1]。 他向我们展示了,在只给定几个简单的操作符和一个表示函数的记号的基础上, 如何构造出一个完整的编程语言. 麦卡锡称这种语言为Lisp, 意为List Processing, 因为他的主要思想之一是用一种简单的数据结构表(list)来代表代码和数据.
 
