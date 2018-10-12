@@ -4,6 +4,8 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+OPTIONS: toc:t ^:{} author:t num:0 H:6
 #+LANGUAGE: zh-CN
+#+HTML_LINK_HOME: index.org
+#+HTML_LINK_UP: index.org
 　 
 
 * 十二門論序

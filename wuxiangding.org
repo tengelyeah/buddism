@@ -1,9 +1,11 @@
 #+TITLE: 无相三昧
 #+AUTHOR: 刘海龙
-#+TAGS: 胜解作意  真实作意 奢摩他  毗婆舍那 散心
+#+TAGS: 四念处 无想心三昧
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+OPTIONS: toc:t ^:{} author:t num:2 H:6
 #+LANGUAGE: zh-CN
+#+HTML_LINK_HOME: index.org
+#+HTML_LINK_UP: index.org
 
 #+BEGIN_COMMENT
 #+END_COMMENT
