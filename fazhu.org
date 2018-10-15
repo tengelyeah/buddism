@@ -1,0 +1,55 @@
+#+TITLE: 先知法住，后知涅槃
+#+AUTHOR: 刘海龙
+#+EMAIL: tengel.liu@gmail.com
+#+TAGS: 心解脫  慧解脫
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+OPTIONS: toc:t ^:{} author:t num:2 H:6
+#+LANGUAGE: zh-CN
+#+DESCRIPTION: 雜阿含六十一經學習筆記
+# #+BIND need org-export-allow-bind-keywords set to t
+# #+BIND: org-html-postamble t
+# #+BIND: org-html-postamble-format (("zh-CN" "hello"))
+#+HTML_LINK_HOME: index.html
+#+HTML_LINK_UP: index.html
+#+DATE: <2018-10-15 一>
+
+
+世尊在須深經中說：
+#+BEGIN_QUOTE
+不問汝知不知，且自先知法住，後知涅槃。
+#+END_QUOTE
+
+也就是先得法住智，然後才能得涅槃智。
+
+瑜伽師地論卷87說：
+#+BEGIN_QUOTE
+有二智，能令見清淨及見善清淨，謂法住智及此為先涅槃智。
+
+法住智者，謂能了知諸行自相種類差別，及能了知諸行共相過患差別，謂於隨順若苦、若樂、不苦不樂三位諸行，方便了知三苦等性。
+#+END_QUOTE
+
+法住智要能夠了知一切有為法的自相種類差別。
+
+有爲法者，即是五蘊，色、受、想、行、識。
+
+那麼要了知它們的自相、作用、體驗、近因等等。這是對它們的自相分別。
+在此基礎之上，還需要進一步認識有為法的共相，即無常、苦、無我。
+
+瑜伽師地論所說的三苦等性，即苦苦、壞苦、行苦等。了解有為法自相和共相的智慧，是法住智。
+
+#+BEGIN_QUOTE
+涅槃智者，謂於如是一切行中，先起苦想，後如是思：即此一切有苦諸行，無餘永斷，廣說乃至名為涅槃，如是了知名涅槃智。
+#+END_QUOTE
+
+
+涅槃智即是見滅諦。在聲聞佛教中，是要求先觀察有為法的自相，再觀察共相，也就是無常苦無我，體認空性，才能進一步體證涅槃。
+
+所以佛陀在法句經中說，
+#+BEGIN_QUOTE
+若人生百歲，不識生滅法；若生一日，而得解了之。
+#+END_QUOTE
+見生滅，就是法住智的開始，依生滅而見緣起，依緣起知空性，依空而體認不生不滅。
+
+舍利弗聽馬勝比丘說 諸法因緣生 偈，即見道，得法眼淨。
+
+利根行者，則依般若經，直觀一切法不生不滅，體認涅槃。不過這種根性，應該要利過舍利弗、目犍連等諸大阿羅漢。 
