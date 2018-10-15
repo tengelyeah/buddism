@@ -5,14 +5,14 @@
 * 佛法
   為佛法而學，不作世間學問想
 
-   + [[file:chulinxin.org][出离心]]
-   + [[file:fandong.org][风动还是帆动]]
-   + [[file:fofazaishijian.org][佛法在世间]]
-   + [[file:piposhena.org][毗缽舍那]]
-   + [[file:shiermenlun.org][十二門論]]
-   + [[file:wuxiangding.org][无相三昧]]
-   + [[file:erzhiyuanqi.org][二支緣起]]
    + [[file:fazhu.org][先知法住，後知涅槃]]
+   + [[file:erzhiyuanqi.org][二支緣起]]
+   + [[file:wuxiangding.org][无相三昧]]
+   + [[file:shiermenlun.org][十二門論]]
+   + [[file:piposhena.org][毗缽舍那]]
+   + [[file:fofazaishijian.org][佛法在世间]]
+   + [[file:fandong.org][风动还是帆动]]
+   + [[file:chulinxin.org][出离心]]
 
 
 * 技术文献

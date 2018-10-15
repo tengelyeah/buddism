@@ -1,11 +1,18 @@
 #+TITLE: 二支緣起
 #+AUTHOR: 刘海龙
+#+EMAIL: tengel.liu@gmail.com
 #+TAGS: 愛喜集 色集 觸集 受想行集 名色集 識集
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+OPTIONS: toc:t ^:{} author:t num:2 H:6
 #+LANGUAGE: zh-CN
+#+DESCRIPTION: 雜阿含五十九經學習筆記
+# #+BIND need org-export-allow-bind-keywords set to t
+# #+BIND: org-html-postamble t
+# #+BIND: org-html-postamble-format (("zh-CN" "hello"))
 #+HTML_LINK_HOME: index.html
 #+HTML_LINK_UP: index.html
+#+DATE: <2018-10-12 五>
+
 
 佛陀在契經中說緣起，最典型是十二支緣起，所謂無明緣行，行緣識，乃至生緣老病死、憂、悲、苦、愁、惱，純大苦聚集。除了十二支緣起之外，還有從識而開始的十支緣起，乃至惑、業、苦的三支緣起。最精簡的則是二支緣起。
 
