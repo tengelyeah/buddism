@@ -12,6 +12,7 @@
    + [[file:shiermenlun.org][十二門論]]
    + [[file:wuxiangding.org][无相三昧]]
    + [[file:erzhiyuanqi.org][二支緣起]]
+   + [[file:fazhu.org][先知法住，後知涅槃]]
 
 
 * 技术文献
