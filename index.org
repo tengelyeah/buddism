@@ -5,6 +5,7 @@
 * 佛法
   為佛法而學，不作世間學問想
 
+   + [[file:zhengguanjimie.org][正觀集滅]]
    + [[file:xindejietuo.org][心得解脫]]
    + [[file:fazhu.org][先知法住，後知涅槃]]
    + [[file:erzhiyuanqi.org][二支緣起]]
