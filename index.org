@@ -5,7 +5,8 @@
 * 佛法
   為佛法而學，不作世間學問想
 
-   + [[file:shagnzuochan.org][上座禪空三昧]]
+   + [[file:wuzhongshusheng.org][五種殊勝]]
+   + [[file:shangzuochan.org][上座禪空三昧]]
    + [[file:zaranyouer.org][雜染有二]]
    + [[file:buweimiedao.org][怖畏灭道二谛]]
    + [[file:niepanfeiduanmie.org][涅槃非斷滅]]
